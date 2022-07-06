@@ -22,7 +22,7 @@ The STM32 M4 DVK hardware reference and software application programs also simpl
 ### STM32 M4 Development Board Includes:
 *  Male to Female Straight Cable (DB-9) or USB to Serial Converter.
 * 12V Power Adapter.
-* FRC.  
+* FRC cable.  
 * User’s Manual
 * Compact Disc Containing:
 * Flash Utility for IC
