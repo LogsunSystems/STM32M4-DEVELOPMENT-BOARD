@@ -18,7 +18,7 @@ The STM32 M4 DVK hardware reference and software application programs also simpl
 * 2 x CAN, 2 x SPI Interfaces
 * I2C, I2S, ULPI Interface
 * GLCD, ETH, NANDFLASH, DCMI Interface
-## Getting Started:
+## SYSTEM REQUIRMENT
 ### STM32 M4 Development Board Includes:
 *  Male to Female Straight Cable (DB-9) or USB to Serial Converter.
 * 12V Power Adapter.
