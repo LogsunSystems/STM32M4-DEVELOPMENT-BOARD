@@ -4,7 +4,7 @@ LOGSUN’s STM32 M4 DVK is 32-bit ARM Cortex M4 Microcontroller based evaluation
 STM32 M4 DVK can be used extensively to test and validate programs.  At the heart of the development board is STM32F407VET6.
 STM32 M4 DVK and related software routines help the system designers to rapidly design and prototype their designs based on ARM Cortex M4 Core.
 The STM32 M4 DVK hardware reference and software application programs also simplify ARM based hardware and software development.
-##BOARD SPECIFICATION:
+## BOARD SPECIFICATION:
 * STMF407VET6 microcontroller
 * On board Serial & USB Connector for Programming
 * Internal DAC & ADC interface
